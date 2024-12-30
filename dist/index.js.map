@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["_plugins","require"],"sources":["../src/index.js"],"sourcesContent":["export {\n  Plugin,\n  PluginSlot,\n  PLUGIN_OPERATIONS,\n  IFRAME_PLUGIN,\n  DIRECT_PLUGIN,\n} from './plugins';\n"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,IAAAA,QAAA,GAAAC,OAAA","ignoreList":[]}
